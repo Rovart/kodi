@@ -1,6 +1,6 @@
 # Wizard - Artic Horizon 2 y Palantir 2
 
-Incluye Luar, Limpiar Kodi y repositorios esenciales.
+Incluye Luar, Limpiar Kodi, Live Sports y repositorios esenciales.
 
 Versión compatible con Kodi 20 y Kodi 19.
 
