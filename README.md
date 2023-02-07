@@ -10,6 +10,8 @@ https://rovart.github.io/wizardkodi/
 
 > ⚠️ Advertencia: Por favor, tened en cuenta que este Wizard reune add-ons para Kodi de terceros y que bajo ningún modo me hago cargo del contenido que estos puedan incluir. Úsalo bajo tu propia responsabilidad.
 
+Si estás en Kodi 20 Nexus y da error Palantir 2 y Luar, reinstalarlo accediendo a Addons y a sus repositorios.
+
 ## Creditos
 
 - Wizard y Palantir 2: https://github.com/palantirsource/palantir
