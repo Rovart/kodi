@@ -17,3 +17,5 @@ Si estás en Kodi 20 Nexus y da error Palantir 2 y Luar, reinstalarlo accediendo
 - Wizard y Palantir 2: https://github.com/palantirsource/palantir
 - Artic Horizon: https://github.com/jurialmunkey/skin.arctic.horizon.2
 - Luar: https://github.com/LuarSource/Fuente
+- TierraMedia: Admin de Palantir 2, por permitirme usar su add-on para que esta skin resalte como nunca.
+- T3RR3X: Por colaborar en montar y configurar esta skin para Kodi.
